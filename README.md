@@ -1,6 +1,6 @@
 # Synthesizer IO
 
-Development has moved to [https://github.com/raphlinus/synthesizer-io](raphlinus/synthesizer-io).
+Development has moved to https://github.com/raphlinus/synthesizer-io.
 
 ## Disclaimer
 
